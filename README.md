@@ -2,7 +2,6 @@
 Burgerking Korea meal upgrade code generator
 
 ## 들어가면서
----
 > ??? : 저기요.. 먹다가 보니까 그쪽 얼굴이 더럽네요?
 > 
 > 영수증 : 네? 제가 더럽다구요?
@@ -16,7 +15,6 @@ Burgerking Korea meal upgrade code generator
 말그대로 버거킹에서 구입하면 영수증 밑에 설문조사를 해야 받을 수 있는 무료 세트업 쿠폰이 있는데, 설문조사를 빠르게 진행해 코드만 가져옵니다.
 
 ## 사용법
----
 다음 2가지가 필요합니다
 
 * Python 2.X
@@ -31,7 +29,6 @@ Burgerking Korea meal upgrade code generator
 5. 확인코드를 영수증에 적어서 세트업그레이드 해먹으면 끝!
 
 ## 미립자 팁
----
 * 영수증이 없다구요? 걱정하지 마세요. 컵 아이스크림 (약 500원) 시켜먹어도 세트업그레이드 쿠폰이 발급됩니다.
 	* 아이스크림 먹으면서 burgerslave를 돌리시면 됩니다. 개꿀!
 * ~~사실 아무거나 적어도 상관없다고 합니다~~
