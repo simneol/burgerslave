@@ -18,7 +18,7 @@ Burgerking Korea meal upgrade code generator
 다음 2가지가 필요합니다
 
 * Python 2.X
-* BeautifulSoap4
+* BeautifulSoup4
 
 5단계로 쉽게 세트로 업그레이드 해먹을 수 있습니다.
 
