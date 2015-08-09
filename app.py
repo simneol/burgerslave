@@ -2,7 +2,6 @@
 
 from bs4 import BeautifulSoup
 import cookielib
-import requests
 import urllib
 import urllib2
 
