@@ -1,5 +1,5 @@
 # burgerslave
-Burgerking Korea meal upgrade code generator
+Burgerking Korea / KFC Korea survey code generator
 
 ## 들어가면서
 > ??? : 저기요.. 먹다가 보니까 그쪽 얼굴이 더럽네요?
@@ -23,10 +23,10 @@ Burgerking Korea meal upgrade code generator
 5단계로 쉽게 세트로 업그레이드 해먹을 수 있습니다.
 
 1. git을 clone합니다.
-2. clone한 폴더에서 커맨드창을 열고 **python app.py**를 입력합니다
-3. 영수증 하단의 설문조사 코드를 그대로 입력합니다 (16자리)
+2. clone한 폴더에서 커맨드창을 열고 **python burgerking.py** 또는 **python kfc.py**를 입력합니다
+3. 영수증 하단의 설문조사 코드를 그대로 입력합니다.
 4. 기다리다 보면 확인코드가 나옵니다.
-5. 확인코드를 영수증에 적어서 세트업그레이드 해먹으면 끝!
+5. 확인코드를 영수증에 적어서 세트업그레이드 / 에그타르트를 먹으면 끝!
 
 ## 미립자 팁
 * 영수증이 없다구요? 걱정하지 마세요. 컵 아이스크림 (약 500원) 시켜먹어도 세트업그레이드 쿠폰이 발급됩니다.
