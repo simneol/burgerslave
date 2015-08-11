@@ -34,4 +34,4 @@ Burgerking Korea / KFC Korea survey code generator
 * ~~사실 아무거나 적어도 상관없다고 합니다~~
 
 ## 추가 정보
-* burgerslave는 단순히 연구용으로 제작한 프로그램이며, 개발자는 사용자의 프로그램의 사용에 따른 법적인 책임을 지지 않습니다.
+* burgerslave는 단순히 연구용으로 제작한 프로그램이며, 개발자는 사용자의 프로그램 사용에 따른 법적인 책임을 지지 않습니다.
